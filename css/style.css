@@ -145,6 +145,10 @@ text-align: center;
 #web{
   display: flex;
 }
+#video{
+    margin-top: 100px;
+
+}
 
 @media only screen and (max-width:760px){
 #mobile{
