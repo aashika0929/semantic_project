@@ -1,0 +1,167 @@
+
+.container h1{
+text-align: center;
+ width: 100%;
+ font-size: 60px;
+ font-weight: 300;
+ color: #000;
+ line-height: 60px;
+ margin-top: 45px;
+}
+.ui .form{
+    margin-top: 10px;
+}
+
+.container p{
+    text-align: center;
+}
+
+.column h2{
+    margin-top: -50px;
+    margin-left: 50px;
+
+}
+.ui .facebook .button{
+    margin-left: 40%;
+}
+#policy{
+    margin-top: 2%;
+}
+
+.container img {
+    position: relative;
+    width: 100%;
+    margin-top: 50px;
+    height:600px;
+
+
+}
+
+.banner h2{
+    font-size: 45px;
+    line-height: 48px;
+    position: absolute;
+    top: 35%;
+    margin-left: 250px;
+    width: 100%;
+    color: white;
+    font-weight: bold;
+
+}
+
+.banner .button{
+    position: absolute;
+    top: 48%;
+    margin-left: 40%;
+   
+}
+.banner .button a{
+    color:white;
+}
+
+.container .content h1{
+    text-align: center;
+  font-family: 'Vollkorn', serif;
+    font-size: 35px;
+    margin-top: 40px;
+    font-weight: 300;
+    line-height: 1.2307em;
+    color: #1d9d73;
+
+}
+
+.container .content h3{
+    text-align: center;
+    margin-top: 30px;
+    letter-spacing: 2px;
+    letter-spacing: 3px;
+    font-family: 'Vollkorn', serif;
+    font-style: regular;
+}
+.ui .cards{
+    margin-top: 4%;
+
+}
+
+.card .image img{
+    margin: 0%;
+}
+
+
+#head1{
+  font-family: 'Vollkorn', serif;
+    text-align: center;
+    color: #1d9d73;
+    padding-bottom: 12px;
+    font-size: 24px;
+}
+
+
+
+.description{
+   font-family: 'Vollkorn', serif;
+    font-size: 15px;
+     padding-top: 10px;
+
+}
+
+
+
+
+.segment h2{
+   
+    margin-left: 15%;
+    font-size: 25px;
+    font-family: 'Vollkorn', serif;
+}
+
+
+#row1{
+    padding-top:50px;
+     margin-left:120px; 
+     font-size:28px;
+     font-family: 'Vollkorn', serif;
+      color: #1d9d73;
+
+}
+#item{
+    padding-top:25px;
+    padding-left: 30px;
+    font-size: 25px;
+    font color:#4db677;
+    font-family: 'Vollkorn', serif;
+}
+#para{
+    margin-top: 10px;
+    padding-top: 20px;
+}
+.ui.list .list>.item a.header:hover, .ui.list>.item a.header:hover {
+    color: #f2711c!important;
+}
+
+#mobile{
+  display: none;
+}
+#web{
+  display: flex;
+}
+
+@media only screen and (max-width:760px){
+#mobile{
+  display: flex;
+}
+#web{
+  display: none;
+}
+#image{
+  display: none;
+}
+}
+#cardpart{
+    margin top: 20px;
+}
+    .colourview{
+background-color:pink;
+}
+
+
